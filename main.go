@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"github.com/button-chen/expr"
+	"github.com/button-chen/expr/expr"
 	"fmt"
 	"os"
 	"time"
