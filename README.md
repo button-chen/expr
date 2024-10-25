@@ -1,6 +1,6 @@
-golang实现简单数学表达式计算
+golang implements simple mathematical expression calculation
 
-例子：
+Example:
 
 	v := Eval("-1.5+(3.2*2)/2*(-3)-10.7*3+1e-5")
 	fmt.Println("result: ", v)
